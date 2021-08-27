@@ -1,0 +1,18 @@
+sell:
+  uuid:
+    owner: player_uuid
+    price: 50
+    start: timestamp_start
+    end: timestamp_end
+    type: ITEM
+    isSelled: true
+    shown: true
+    pokemon: 
+      pokeball:
+      level:
+      name:
+      nature:
+      evs:
+      ivs:
+      held-item:
+      is-shiny:

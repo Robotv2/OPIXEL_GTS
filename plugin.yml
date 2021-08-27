@@ -1,0 +1,7 @@
+name: OPIXELgts
+version: 1.0
+author: Robotv2
+main: fr.robotv2.gts.gts
+commands:
+  gts:
+    description: to open the gts
