@@ -15,4 +15,4 @@ Commandes:
   - /gts ( pour ouvrir le gts / Aucune permission requise )
 
 Permissions:
-  - gts.limit.<number> ( Remplacer <number> par le nombre d'item / pokemon que le joueur peut en vente maximum à la fois. DEFAULT: 7 )
+  - gts.limit.[number] ( Remplacer [number] par le nombre d'item / pokemon que le joueur peut en vente maximum à la fois. DEFAULT: 7 )
